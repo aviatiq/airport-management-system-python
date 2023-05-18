@@ -1,0 +1,2 @@
+Fixed changing flight information
+Fixed adding updates
