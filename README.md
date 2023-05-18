@@ -11,7 +11,7 @@ Installation
 To run the "Airport Flight Database System on Python," please follow these steps:
 
 Ensure you have Python installed on your system. If not, you can download and install Python from the official website: python.org.
-Clone or download the project repository from the GitHub page: github.com/yourusername/airport-flight-database-system.
+Clone or download the project repository from the GitHub page: https://github.com/aviatiq/airport-management-system-python.
 Navigate to the project directory using the command line or terminal.
 Download openpyxl by entering the command: pip install openpyxl.
 Run the program using the command: python main.py.
