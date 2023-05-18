@@ -1,7 +1,7 @@
 Airport Flight Database System on Python
 Copyright Inventlinks (Owned by NightcoreSkies Music)
 Description
-The "Airport Flight Database System on Python" is a project developed by Skies C. (Joshua C.) 
+The "Airport Flight Database System on Python" is a project developed by Skies C.
 It is a comprehensive database system designed to manage and track flights and related information in an airport management setting.
 
 Usage
